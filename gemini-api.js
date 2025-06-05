@@ -3,7 +3,7 @@
  */
 
 const GeminiService = {
-    apiKey: '', // يجب تعيين مفتاح API هنا
+    apiKey: 'AIzaSyDrVsq5P6ndL9cDJSSWik-HOcL6X6zyVNU', // يجب تعيين مفتاح API هنا
     apiUrl: 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent',
     conversationHistory: [],
     maxHistoryLength: 10,
